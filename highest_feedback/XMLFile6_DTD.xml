@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE Users [
+  <!ELEMENT Users (user*)>
+  <!ELEMENT user (username,password,email,contact_number)>
+  <!ELEMENT username (#PCDATA)>
+  <!ELEMENT password (#PCDATA)>
+  <!ELEMENT email (#PCDATA)>
+  <!ELEMENT contact_number (home,office)>
+  <!ELEMENT home (#PCDATA)>
+  <!ELEMENT office (#PCDATA)>
+]>
+<Users>
+  <user>
+    <username>user1</username>
+    <password>Pass1</password>
+    <email>r@gmail.com</email>
+    <contact_number>
+      <home>7687373379</home>
+      <office>7239298980</office>
+    </contact_number>
+  </user>
+</Users>

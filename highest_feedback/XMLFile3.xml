@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Users>
+  <user>
+    <username>user1</username>
+    <password>pass1</password>
+    <email-id>user1@gmail.com</email-id>
+    <contact-Number>
+      <office>7924929420942</office>
+      <home>24824284927</home>
+    </contact-Number>
+  </user>
+  <user>
+    <username>user2</username>
+    <password>pass2</password>
+    <email-id>user2@gmail.com</email-id>
+    <contact-Number>
+      <office>7929420942</office>
+      <home>244284927</home>
+    </contact-Number>
+  </user>
+  <user>
+    <username>user3</username>
+    <password>pass3</password>
+    <email-id>user@gmail.com</email-id>
+    <contact-Number>
+      <office>7924929420942</office>
+      <home>24824284927</home>
+    </contact-Number>
+  </user>
+</Users>

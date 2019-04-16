@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Products>
+  <Product>
+    <id>P1</id>
+    <pname style="border:30px;">Product1</pname>
+    <price>200</price>
+  </Product>
+  <Product>
+    <id>P2</id>
+    <pname>Product2</pname>
+    <price>250</price>
+  </Product>
+  <Order>
+    <odate>12-12-2019</odate>
+    <Amt>2000</Amt>
+  </Order>
+</Products>

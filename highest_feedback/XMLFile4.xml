@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Products xmlns:ns1="Text1" xmlns:ns2="text2">
+  <Product>
+    <ns1:Name>Product 1</ns1:Name>
+  </Product>
+  <ns2:Customer>
+    <ns2:Name></ns2:Name>
+  </ns2:Customer>
+  <Product xmlns:n2="text3">
+    <id>P2</id>
+    <color>Red</color>
+    <price>300</price>
+  </Product>
+  <order>
+    <odate>12-12-2019</odate>
+    <Amt>2000</Amt>
+  </order>
+  
+</Products>

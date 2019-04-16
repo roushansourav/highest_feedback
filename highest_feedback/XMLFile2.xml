@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Students>
+  <Student>
+    <stid>S01</stid>
+    <name>Name1</name>
+    <sem>I</sem>
+    <sub1>10</sub1>
+    <sub2>10</sub2>
+    <sub2>10</sub2>
+    <grade>A+</grade>
+  </Student>
+  <Student>
+    <stid>S02</stid>
+    <name>Name2</name>
+    <sem>I</sem>
+    <sub1>10</sub1>
+    <sub2>10</sub2>
+    <sub2>10</sub2>
+    <grade>A+</grade>
+  </Student>
+  <Student>
+    <stid>S03</stid>
+    <name>Name3</name>
+    <sem>I</sem>
+    <sub1>10</sub1>
+    <sub2>10</sub2>
+    <sub2>10</sub2>
+    <grade>A+</grade>
+  </Student>
+</Students>
